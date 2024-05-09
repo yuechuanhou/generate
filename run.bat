@@ -1,0 +1,1 @@
+blender -b ./scene.blend --python ./generate_posed_images.py -- --obj_dir C:/Desktop/Education/MS_CMU/Fall23/VLR/Project/urbanscene3d/bridge_oblique_recon --frames 60 --out_dir ./test
